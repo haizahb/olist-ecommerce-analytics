@@ -89,9 +89,9 @@ See [`docs/architecture_diagram.png`](docs/) and [`docs/erd.png`](docs/) for the
 
 ```
 ├── notebooks/
-│   ├── 01_bronze_ingestion_notebook.html
-│   ├── 02_silver_transformation_notebook.html
-│   └── 03_gold_final_notebook.html
+│   ├── [01_bronze_ingestion_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/03_gold_final_notebook.html)
+│   ├── [02_silver_transformation_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/02_silver_transformation_notebook.html)
+│   └── [03_gold_final_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/03_gold_final_notebook.html)
 ├── docs/
 │   ├── architecture_diagram.png
 │   ├── erd.png

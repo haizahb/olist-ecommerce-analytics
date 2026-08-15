@@ -59,7 +59,7 @@ See [`docs/architecture_diagram.png`](docs/) and [`docs/erd.png`](docs/) for the
 ## Dashboard Pages
 
 **1. Initial Summary** — orders, late delivery rate, delay days, freight value, and monthly trend.
-https://github.com/haizahb/olist-ecommerce-analytics/blob/main/docs/01_initial_summary.png
+![Initial Summary](docs/screenshots/01_initial_summary.png)
 
 **2. Geographic Analysis** — late delivery orders by state, mapped across Brazil.
 ![Geographic Analysis](docs/screenshots/02_geographic_analysis.png)

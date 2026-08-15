@@ -96,4 +96,3 @@ See [`docs/architecture_diagram.png`](docs/) and [`docs/erd.png`](docs/) for the
 │   ├── erd.png
 │   └── screenshots/
 ├── olist_infographic.png
-├── olist_project_summary.md      # engineering issues & resolutions log

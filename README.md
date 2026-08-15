@@ -59,22 +59,23 @@ See [`docs/architecture_diagram.png`](docs/) and [`docs/erd.png`](docs/) for the
 ## Dashboard Pages
 
 **1. Initial Summary** — orders, late delivery rate, delay days, freight value, and monthly trend.
-![Initial Summary](docs/screenshots/01_initial_summary.png)
+![Initial Summary](docs/01_initial_summary.png)
 
 **2. Geographic Analysis** — late delivery orders by state, mapped across Brazil.
-![Geographic Analysis](docs/screenshots/02_geographic_analysis.png)
+![Geographic Analysis](docs/02_geographic_analysis.png)
 
 **3. Distance vs Delay** — late delivery rate and avg. delay days by distance band.
-![Distance vs Delay](docs/screenshots/03_distance_vs_delay.png)
+![Distance vs Delay](docs/03_distance_vs_delay.png)
 
 **4. Weight & Freight Analysis** — late rate by freight band, freight value vs. delay days.
-![Weight & Freight Analysis](docs/screenshots/04_weight_freight_analysis.png)
+![Weight & Freight Analysis](docs/04_weight_freight_analysis.png)
 
 **5. Seller Performance** — seller-level late rates, top 20 late sellers, late rate by route.
-![Seller Performance](docs/screenshots/05_seller_performance.png)
+![Seller Performance](docs/05_seller_performance.png)
 
 **6. Correlation Analysis** — location, freight cost, and weight correlation with late deliveries.
-![Correlation Analysis](docs/screenshots/06_correlation_analysis.png)
+![Correlation Analysis](docs/06_correlation_analysis.png)
+
 
 ---
 

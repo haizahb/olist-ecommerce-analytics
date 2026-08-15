@@ -85,15 +85,32 @@ See [`docs/architecture_diagram.png`](docs/) and [`docs/erd.png`](docs/) for the
 
 ---
 
+## Notebooks
+
+Full PySpark transformation logic, rendered directly (via GitHub Pages):
+
+- [Bronze — Ingestion](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/01_bronze_ingestion_notebook.html)
+- [Silver — Cleaning & Transformation](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/02_silver_transformation_notebook.html)
+- [Gold — Star Schema](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/03_gold_final_notebook.html)
+
+---
+
 ## Repo Structure
 
 ```
 ├── notebooks/
-│   ├── [01_bronze_ingestion_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/03_gold_final_notebook.html)
-│   ├── [02_silver_transformation_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/02_silver_transformation_notebook.html)
-│   └── [03_gold_final_notebook.html](https://haizahb.github.io/olist-ecommerce-analytics/notebooks/03_gold_final_notebook.html)
+│   ├── 01_bronze_ingestion_notebook.html
+│   ├── 02_silver_transformation_notebook.html
+│   └── 03_gold_final_notebook.html
 ├── docs/
 │   ├── architecture_diagram.png
 │   ├── erd.png
-│   └── screenshots/
+│   ├── 01_initial_summary.png
+│   ├── 02_geographic_analysis.png
+│   ├── 03_distance_vs_delay.png
+│   ├── 04_weight_freight_analysis.png
+│   ├── 05_seller_performance.png
+│   └── 06_correlation_analysis.png
 ├── olist_infographic.png
+└── README.md
+
